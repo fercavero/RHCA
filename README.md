@@ -22,6 +22,6 @@ Autor: Fernando Cavero
 **Paso 1**
 
     Seleccionamos el idioma
-```console
+```bash
 	student@localhost:~$ localectl set-locale LANG=es_ES.utf8
 ```
